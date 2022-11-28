@@ -1,2 +1,1 @@
 FLASK_APP=app
-SCHEMA=react_project
