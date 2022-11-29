@@ -1,5 +1,5 @@
 ## Overview
-[Trellow](https://trellowaa.herokuapp.com/) is a [Trello](https://trello.com/) clone, which allows users to create project boards to manage their progress and organize tasks.
+[Trellow](https://trellow.onrender.com/) is a [Trello](https://trello.com/) clone, which allows users to create project boards to manage their progress and organize tasks.
 
 ## Technologies used
 **Frontend**
@@ -17,7 +17,7 @@
 
 
 ## Trellow setup
-1. Clone this repository (https://github.com/bandrewi/trellow-capstone-project)
+1. Clone this repository (https://github.com/bandrewi/trellow-onrender)
 2. Install dependencies - `pipenv install --dev -r dev-requirements.txt && pipenv install -r requirements.txt`
 3. Create a `.env` file based on the **.env.example** with proper settings required for the development environment
 4. Setup PostgreSQL user, password and database and to make sure it matches the **.env** file
@@ -35,4 +35,4 @@ Logged in users can perform the following action:
 * View/Create/Update/Delete Cards
 
 ## Link to Wiki docs
-https://github.com/bandrewi/trellow-capstone-project/wiki
+https://github.com/bandrewi/trellow-onrender/wiki
