@@ -15,6 +15,12 @@
 - PostgreSQL
 - SQLAlchemy
 
+## Technical Implementation
+While building Trellow, I wanted to ensure that users would easily understand how to navigate and use the website features. Using AJAX, DOM manipulation, and error handling users would be notified immediately what actions were required to use the feature.
+
+<img src= https://i.imgur.com/WxM4qkV.png alt='Error Handling' width='654px' height='380px'/>
+
+<img src= https://i.imgur.com/hVRjIOf.png alt='Error Handling' width='643px' height='376px'/>
 
 ## Trellow setup
 1. Clone this repository (https://github.com/bandrewi/trellow-onrender)
